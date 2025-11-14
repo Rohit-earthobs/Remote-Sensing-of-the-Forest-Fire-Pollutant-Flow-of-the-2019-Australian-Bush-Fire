@@ -26,15 +26,20 @@ Eastern Australia, one of the most fire-prone regions globally, dominated by euc
 - Elevated CO, NO₂, and PM concentrations persisted even after active fire events ended.  
 - Remote sensing enables effective pollutant tracking and environmental impact assessment during large-scale fires.
 
-## Keywords
-Forest fire pollutant, remote sensing, Google Earth Engine, Australian bushfires, carbon monoxide, nitrogen dioxide, particulate matter.
+## Publication
+**Published in:** [2023 IEEE India Geoscience and Remote Sensing Symposium (InGARSS)](https://ieeexplore.ieee.org/xpl/conhome/10490313/proceeding)  
+**Date of Conference:** 10–13 December 2023  
+**Date Added to IEEE Xplore:** 09 April 2024  
+**DOI:** [10.1109/InGARSS59135.2023.10490389](https://doi.org/10.1109/InGARSS59135.2023.10490389)  
+**Publisher:** IEEE  
 
 ## Citation
-If you use this code or data in your research, please cite:
-
 **Rohit P., Shivani S., Alka Singh.**  
 *Remote Sensing of the Forest Fire Pollutant Flow of the 2019 Australian Bushfires*  
 Center for Wireless Networks & Applications,  
 Amrita Vishwa Vidyapeetham, Amritapuri, India.
+
+## Keywords
+Forest fire pollutant, remote sensing, Google Earth Engine, Australian bushfires, carbon monoxide, nitrogen dioxide, particulate matter.
 
 
